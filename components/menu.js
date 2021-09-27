@@ -42,4 +42,4 @@ const menu = <div class="container px-4 px-lg-5">
 const test = <span>Work damn you</span>
 
 const domContainer = document.querySelector('#mainNav');
-ReactDOM.render(menu, document.getElementById('mainNav'));
+ReactDOM.render(test,domContainer);
